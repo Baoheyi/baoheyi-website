@@ -5,14 +5,12 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "dependencies": {
-    "@next/font": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest"
-  },
+  "devDependencies": {
+  "@tailwindcss/postcss": "^4.1.5",
+  "autoprefixer": "^10.4.21",
+  "postcss": "^8.5.3",
+  "tailwindcss": "^4.1.5"
+}
   "devDependencies": {
     "autoprefixer": "latest",
     "postcss": "latest",
